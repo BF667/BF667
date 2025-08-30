@@ -22,6 +22,4 @@
 <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-<a href="https://markdown.es/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="md" width="40" height="40"/></a>
-<a href="https://retype.com/" target="blank" rel="noreferrer"> <img src="https://cmscritic.com/ms-content/uploads/2023/08/retype-product-logo.png" alt="retype" width="40" height="40"/></a>
 </p>
