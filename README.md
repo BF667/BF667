@@ -8,10 +8,10 @@
 
 🌟 **About Me**
 
-- 🔭 Currently building: [Vocal Remover](https://github.com/BF667/vocal-remover.git)
-- 🌱 Learning: AI, GPT, and related technologies
-- 🤝 Open to collaborating on: [Vocal Remover](https://github.com/BF667/vocal-remover.git)
-- 💬 Ask me about: **RVC, UVR5, Python, Gradio**
+- 🔭 Currently building: [Baileys](https://github.com/BF667/Baileys)
+  - 🌱 Learning: AI, GPT, and related technologies
+- 🤝 Open to collaborating on: [Baileys](https://github.com/BF667/Baileys)
+  - 💬 Ask me about: **RVC, UVR5, Python, Gradio**
 - 🚀 Always curious and exploring new tech
 
 ---
