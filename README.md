@@ -1,54 +1,45 @@
-<h1 align="center">👋 Hi, I'm BF667</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZtbnNocjR6bXNid3B4b3BqM2l4bWl4b2Z4c2F3cGZqY3Z3c2VvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BF667&label=Profile%20Views&color=0e75b6&style=flat" alt="BF667"/>
-</p>
-
----
-
-🌟 **About Me**
-
-- 🔭 Currently building: [Baileys](https://github.com/BF667/Baileys)
-  - 🌱 Learning: AI, GPT, and related technologies
-- 🤝 Open to collaborating on: [Baileys](https://github.com/BF667/Baileys)
-  - 💬 Ask me about: **RVC, UVR5, Python, Gradio**
-- 🚀 Always curious and exploring new tech
+<h1 align="center">Hey there, I'm BF667! 👋</h1>
+<h3 align="center">A creative developer who loves building cool stuff on the web 🚀</h3>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-</p>
+### 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **a secret project that will change the world!**
+- 🌱 I’m currently mastering **the art of AI/ML**
+- 👯 I’m looking to collaborate on **anything fun and open-source!**
+- 💬 Ask me about **JavaScript, React, or my favorite sci-fi movies.**
+- 📫 How to reach me: **u**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I like cute girls like Blaze The Cat, lol.**
 
 ---
 
-<!--
-**BF667/BF667** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### 🛠️ My Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 My GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=bf667&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bf667&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bf667&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{bf667}/count.svg" alt="Visitor Count"/>
+</div>
