@@ -5,11 +5,10 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **a secret project that will change the world!**
-- 🌱 I’m currently mastering **the art of AI/ML**
+- 🔭 I’m currently working on **[Advanced RVC Inference](https://github.com/ArkanDash/Advanced-RVC-Inference/tree/master)**
+- 🌱 I’m currently mastering **AI/ML**
 - 👯 I’m looking to collaborate on **anything fun and open-source!**
-- 💬 Ask me about **JavaScript, React, or my favorite sci-fi movies.**
-- 📫 How to reach me: **idk**
+- 💬 Ask me about **F.N.A.F**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I like cute girls like Blaze The Cat, lol.**
 
