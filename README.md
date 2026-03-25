@@ -1,5 +1,7 @@
 <h1 align="center">Hey there, I'm BF667</h1>
-<h3 align="center">A creative developer who loves building cool stuff on the web 🚀</h3>
+
+
+Just an chill Guy
 
 ---
 
@@ -34,7 +36,7 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{bf667}/count.svg" alt="Visitor Count"/>
+  <img src="https://profile-counter.glitch.me/bf667/count.svg" alt="Visitor Count"/>
 </div>
 
 
