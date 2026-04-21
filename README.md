@@ -16,7 +16,7 @@ Just an chill Guy
 
 - Gender: **Male**
 - Status: **Single**
-- Age: 15
+- Age: 16
 
 ---
 
