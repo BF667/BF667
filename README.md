@@ -1,42 +1,65 @@
-<h1 align="center">Hey there, I'm BF667</h1>
+<h1 align="center">Hi, I'm Rico</h1>
+<h3 align="center">AI Audio Engineer & Developer</h3>
 
-
-Just an chill Guy
-
----
-
-### 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[Advanced RVC Inference](https://github.com/ArkanDash/Advanced-RVC-Inference/tree/master)**
-- 🌱 I’m currently mastering **AI/ML**
-- 👯 I’m looking to collaborate on **anything fun and open-source!**
-- 💬 Ask me about **F.N.A.F**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I like cute girls like Blaze The Cat, lol.**
-
-- Gender: **Male**
-- Status: **Single**
-- Age: 16
+<p align="center">
+  <a href="https://github.com/BF667?tab=followers">
+    <img src="https://img.shields.io/github/followers/BF667?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=BF667&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
 
 ---
 
-### 🛠️ My Tech Stack
+### About Me
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,react,windows,haxe,typescript&theme=light)](https://skillicons.dev)
+I'm a developer passionate about AI-powered audio processing, voice conversion, and music generation. Currently building and contributing at **TeraStudio**, where I work on cutting-edge RVC (Retrieval-based Voice Conversion) inference pipelines, audio separation tools, and AI cover generation systems.
 
----
-
-### 📊 My GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=bf667&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bf667&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bf667&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My work revolves around making AI audio technology more accessible and pushing the boundaries of what's possible with open-source audio tools.
 
 ---
 
+### What I Work On
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bf667/count.svg" alt="Visitor Count"/>
-</div>
+- **RVC & Voice Conversion** — Training, fine-tuning, and deploying high-quality voice models
+- **Audio Separation** — Stem extraction using UVR, Demucs, and custom pipelines
+- **AI Music Generation** — Exploring text-to-music and MIDI-to-audio workflows
+- **Full-Stack Development** — Building web interfaces and APIs for audio tools
 
+---
 
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,react,nextjs,express&theme=dark" alt="Tech Stack"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,prisma,postgresql,docker&theme=dark" alt="AI & DevOps"/>
+</p>
+
+---
+
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[Advanced RVC Inference](https://github.com/ArkanDash/Advanced-RVC-Inference)** | High-performance RVC inference pipeline |
+| **[Midi Composer](https://github.com/BF667/midi-composer)** | AI-powered MIDI composition tool |
+| **[TeraStudio](https://github.com/terastudio-org)** | Organization building open-source audio tools |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bf667&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bf667&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bf667&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</p>
